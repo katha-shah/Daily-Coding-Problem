@@ -43,7 +43,6 @@ def set_approach(triplets):
     return (3 * set_sum - total_sum)//2
 
 
-
 if __name__ == '__main__':
     testcase1 = non_triple([6,1,3,3,3,6,6])
     print(testcase1)
